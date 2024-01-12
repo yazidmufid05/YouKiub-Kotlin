@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YouKiub" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/silver_lake_blue</item>
+    </style>
+
+    <style name="Theme.YouKiub" parent="Base.Theme.YouKiub" />
+</resources>
